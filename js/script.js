@@ -68,4 +68,3 @@ buttonNext.addEventListener('click', () => {
 renderPokemon(searchPokemon)
 
 
-//mudança
